@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ruoyi/ruoyi.iml" filepath="$PROJECT_DIR$/ruoyi/ruoyi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/ruoyi-vue.iml" filepath="$PROJECT_DIR$/.idea/ruoyi-vue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ruoyi-ui/ruoyi-ui.iml" filepath="$PROJECT_DIR$/ruoyi-ui/ruoyi-ui.iml" />
     </modules>
   </component>
 </project>
